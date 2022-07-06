@@ -30,7 +30,12 @@ class ViewController: UIViewController {
                 let blue:CGFloat = CGFloat(drand48())
             
                 return UIColor(red: red, green: greeb, blue: blue, alpha: 1.0)
-        }
+       
+            
+            Я СМОГ УДАЛИТЬ ЛОКАЛЬНЫЙ ГИТ В ПРОЕКТЕ!!!
+                P_CLASSIC
+            
+            }
         }
     }
 }
